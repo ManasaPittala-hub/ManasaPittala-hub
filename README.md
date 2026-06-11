@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Manasa Pittala 👋
 
-<!--
-**ManasaPittala-hub/ManasaPittala-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 MBA (Finance & Business Analytics)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills
+- Excel
+- Power BI
+- Tableau
+- SQL
+- Python (Learning)
+
+## Projects
+- Smart Relationship Manager Dashboard
+- Banking Customer Analytics Dashboard
+- Power BI Projects
+- SQL Data Analysis Projects
+
+## Currently Learning
+- Advanced Power BI
+- SQL
+- Python
+- Data Analytics with AI Tools
+
+## Career Goal
+To become a Data Analyst and work on Business Intelligence and Analytics projects.
+
+## Connect With Me
+📍 Hyderabad, India
+🔗 LinkedIn: https://www.linkedin.com/in/manasa25
