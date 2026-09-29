@@ -10,13 +10,12 @@
 - Power BI
 - Tableau
 - SQL
-- Python (Learning)
+- Python 
 
 ## Projects
-- Smart Relationship Manager Dashboard
-- Banking Customer Analytics Dashboard
-- Power BI Projects
-- SQL Data Analysis Projects
+- HR Analytics
+- CRM Analytics
+
 
 ## Currently Learning
 - Advanced Power BI
